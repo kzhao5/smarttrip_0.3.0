@@ -18,12 +18,3 @@ Created by **Kaixiang Zhao** & **Zanxiang Yin**
 
 ---
 
-## 🚀 Quick Start
-
-> Requirements: **Node ≥ 18** and **npm or yarn**
-
-1. **Clone / fork** the CodeSandbox repo or pull locally.
-2. Install deps:
-
-   ```bash
-   npm install          # or:  yarn install
