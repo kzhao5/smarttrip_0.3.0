@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Notre-Dame Cathedral",
+    "description": "A Gothic masterpiece on the Île de la Cité.",
+    "image": "/assets/NotreDame.JPEG"
+  },
+  {
+    "id": "2",
+    "name": "Arc de Triomphe",
+    "description": "Iconic triumphal arch at the western end of the Champs-Élysées.",
+    "image": "/assets/Arc_de_Triomphe.JPEG"
+  },
+  {
+    "id": "3",
+    "name": "Montmartre",
+    "description": "A historic hilltop district famous for its artistic history and Sacré-Cœur.",
+    "image": "/assets/Montmartre.JPEG"
+  },
+  {
+    "id": "4",
+    "name": "Seine River Cruise",
+    "description": "A relaxing boat ride offering views of Paris's landmarks along the Seine.",
+    "image": "/assets/SeineRiverCruise.JPEG"
+  },
+  {
+    "id": "5",
+    "name": "Louvre Museum",
+    "description": "World-renowned art museum housing the Mona Lisa and thousands of works.",
+    "image": "/assets/LouverMusem.JPEG"
+  },
+  {
+    "id": "6",
+    "name": "Eiffel Tower",
+    "description": "The most iconic symbol of Paris, offering panoramic views of the city.",
+    "image": "/assets/EiffelTowe.JPEG"
+  }
+]
